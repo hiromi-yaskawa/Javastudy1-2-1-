@@ -1,0 +1,9 @@
+課題提出します。
+
+PS C:\Users\User\Desktop\javastudy1-2(1)>javac Task1_2.java -encoding utf-8
+
+C:\Users\User\Desktop\javastudy1-2(1)>java Task1_2
+もも
+70
+合計点:220
+平均点:44
